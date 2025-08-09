@@ -4,6 +4,9 @@ A simple React + TypeScript project demonstrating a **professional, reusable pag
 
 The project uses **Tailwind CSS** for modern styling and shows how to paginate fetched data efficiently.
 
+ **Open in browser:**  
+   Visit [https://react-pagination-ui.vercel.app](https://react-pagination-ui.vercel.app) to see the app.
+
 ---
 
 ## Features
